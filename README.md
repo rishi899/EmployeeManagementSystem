@@ -50,22 +50,24 @@ The Employee Management System is a robust application designed to streamline an
 
 
 ## Screenshots
-![Homepage](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/5723946e-e947-4755-9e70-b5cb574852ce)
+![Homepage]![Screenshot 2024-06-29 001120](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/a35afa9f-ba90-423d-a9a5-9646dd33f68c)
 *Caption: The homepage of the Employee Management System.*
 
-![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/575aa428-a45c-4f82-a234-04ca0ce4f8c1)
+![image]![Screenshot 2024-06-29 001234](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/de9f5639-b468-4c69-9b45-61b05abecd57)
 *Caption: Login Dashboard.*
 
-![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/9a1b5ee4-92d3-462f-a3f3-9123b84c9536)
+![image]![Screenshot 2024-06-29 001340](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/f677490d-fa8b-4220-b62c-0070998fe62d)
 *Caption: Main Page.*
 
-![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/ee1f8da6-8ba5-4492-a8a7-6db655cd22e9)
+![image]![Screenshot 2024-06-29 001454](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/ec72ff43-c6ea-4025-9e95-23d369185284)
 *Caption: Add Employee functionality.*
 
-![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/c731f18d-4863-4f18-a06a-ea0925a02bc3)
+![image]![Screenshot 2024-06-29 001614](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/927ab8f7-baba-4ba7-ae1e-aecb7ed55672)
+
 *Caption: Update employee.*
 
-![image](https://github.com/rishiimaheshwari/EmployeeManagementSystem/assets/131180126/2eabe112-43b6-4f02-b12d-618bbfdffbbe)
+![image]![Screenshot 2024-06-29 001701](https://github.com/rishi899/EmployeeManagementSystem/assets/119059306/086901b0-e5d2-46d9-8b98-9e1c07702883)
+
 *Caption: remove employee functionality.*
 
 
